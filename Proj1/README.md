@@ -1,3 +1,10 @@
+Added 
+- Card feature
+- Animation like :
+    - dib : inline
+    - pa3, ma2, br3 : padding, margin, and border
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
