@@ -4,7 +4,7 @@ import React from 'react';
 const Card = () => {
 
     return(
-        <div>
+        <div className = 'bg-light-green dib ma3 pa2 br3 grow' >
             <img src = 'https://robohash.org/test?200x200' alt='robots'/>
             <div>
                 <h3> Jane Doe</h3>
