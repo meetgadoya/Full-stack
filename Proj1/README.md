@@ -3,6 +3,8 @@ Added
 - Animation like :
     - dib : inline
     - pa3, ma2, br3 : padding, margin, and border
+    - bw2, shadow-5 : border width and shadow
+    - ba : all border with style=solid and width=1px
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
