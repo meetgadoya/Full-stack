@@ -1,6 +1,6 @@
 Added 
 -   Instead of having multiple components, it is better to have one parent 
-component (App)
+component (App) and we will call CardList from APP component.
 
 
 
