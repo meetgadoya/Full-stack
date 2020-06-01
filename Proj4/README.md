@@ -9,4 +9,5 @@ component (App) and we will call CardList from APP component.
 
 (Added new)
 -   Added background color and bigger heading.
+-   Added Scroll layer to make heading and searchbox constant
 
