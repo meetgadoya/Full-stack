@@ -13,11 +13,19 @@ class App extends React.Component {
         }
     }
 
-    componentDidMount(){
-        fetch("https://jsonplaceholder.typicode.com/users")
-            .then(response => {return response.json()})
-            .then(users => {this.setState({robots:users})})
-        // this.setState({robots : robots});
+    // componentDidMount(){
+    //     fetch("https://jsonplaceholder.typicode.com/users")
+    //         .then(response => {return response.json()})
+    //         .then(users => {this.setState({robots:users})})
+    //     // this.setState({robots : robots});
+    // }
+
+    // Either this or above works, this is just added to show
+    //  how can we make async calls
+    async componentDidMount(){
+        const data = await fetch("https://jsonplaceholder.typicode.com/users")
+            .then(data => { return data.json()});
+        this.setState({robots : data})
     }
 
     onSearchChange = (event) => {
