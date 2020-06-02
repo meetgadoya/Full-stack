@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-CardRobots/static/css/main.92aad1fc.chunk.css",
-    "main.js": "/React-CardRobots/static/js/main.13c55902.chunk.js",
-    "main.js.map": "/React-CardRobots/static/js/main.13c55902.chunk.js.map",
+    "main.js": "/React-CardRobots/static/js/main.18286e59.chunk.js",
+    "main.js.map": "/React-CardRobots/static/js/main.18286e59.chunk.js.map",
     "runtime-main.js": "/React-CardRobots/static/js/runtime-main.ee9758ca.js",
     "runtime-main.js.map": "/React-CardRobots/static/js/runtime-main.ee9758ca.js.map",
     "static/css/2.3c03f26f.chunk.css": "/React-CardRobots/static/css/2.3c03f26f.chunk.css",
     "static/js/2.4e822d6b.chunk.js": "/React-CardRobots/static/js/2.4e822d6b.chunk.js",
     "static/js/2.4e822d6b.chunk.js.map": "/React-CardRobots/static/js/2.4e822d6b.chunk.js.map",
     "index.html": "/React-CardRobots/index.html",
-    "precache-manifest.5f67fce59c9e99339ab4c1be4500abf4.js": "/React-CardRobots/precache-manifest.5f67fce59c9e99339ab4c1be4500abf4.js",
+    "precache-manifest.f614839cef62f3f06727b90489114add.js": "/React-CardRobots/precache-manifest.f614839cef62f3f06727b90489114add.js",
     "service-worker.js": "/React-CardRobots/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/React-CardRobots/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.92aad1fc.chunk.css.map": "/React-CardRobots/static/css/main.92aad1fc.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.4e822d6b.chunk.js",
     "static/css/main.92aad1fc.chunk.css",
-    "static/js/main.13c55902.chunk.js"
+    "static/js/main.18286e59.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "344e3e13ec90fec449458ae8601cad7d",
+    "revision": "5d04365eaeb1955731b9bf42bff5301c",
     "url": "/React-CardRobots/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-CardRobots/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "e581bdff420e3a6b19a8",
+    "revision": "0838879314f8a14387ae",
     "url": "/React-CardRobots/static/css/main.92aad1fc.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-CardRobots/static/js/2.4e822d6b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e581bdff420e3a6b19a8",
-    "url": "/React-CardRobots/static/js/main.13c55902.chunk.js"
+    "revision": "0838879314f8a14387ae",
+    "url": "/React-CardRobots/static/js/main.18286e59.chunk.js"
   },
   {
     "revision": "40d618a0a3f7b021fcb3",
