@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Full-stack/static/css/main.22cceac8.chunk.css",
-    "main.js": "/Full-stack/static/js/main.2f473def.chunk.js",
-    "main.js.map": "/Full-stack/static/js/main.2f473def.chunk.js.map",
-    "runtime-main.js": "/Full-stack/static/js/runtime-main.8c2a2944.js",
-    "runtime-main.js.map": "/Full-stack/static/js/runtime-main.8c2a2944.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/Full-stack/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.4e822d6b.chunk.js": "/Full-stack/static/js/2.4e822d6b.chunk.js",
-    "static/js/2.4e822d6b.chunk.js.map": "/Full-stack/static/js/2.4e822d6b.chunk.js.map",
-    "index.html": "/Full-stack/index.html",
-    "precache-manifest.cacdb22e6e21d9fe1b3b716bcc37e435.js": "/Full-stack/precache-manifest.cacdb22e6e21d9fe1b3b716bcc37e435.js",
-    "service-worker.js": "/Full-stack/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/Full-stack/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.22cceac8.chunk.css.map": "/Full-stack/static/css/main.22cceac8.chunk.css.map",
-    "static/js/2.4e822d6b.chunk.js.LICENSE.txt": "/Full-stack/static/js/2.4e822d6b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Full-stack/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/React-CardRobots/static/css/main.92aad1fc.chunk.css",
+    "main.js": "/React-CardRobots/static/js/main.13c55902.chunk.js",
+    "main.js.map": "/React-CardRobots/static/js/main.13c55902.chunk.js.map",
+    "runtime-main.js": "/React-CardRobots/static/js/runtime-main.ee9758ca.js",
+    "runtime-main.js.map": "/React-CardRobots/static/js/runtime-main.ee9758ca.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/React-CardRobots/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.4e822d6b.chunk.js": "/React-CardRobots/static/js/2.4e822d6b.chunk.js",
+    "static/js/2.4e822d6b.chunk.js.map": "/React-CardRobots/static/js/2.4e822d6b.chunk.js.map",
+    "index.html": "/React-CardRobots/index.html",
+    "precache-manifest.5f67fce59c9e99339ab4c1be4500abf4.js": "/React-CardRobots/precache-manifest.5f67fce59c9e99339ab4c1be4500abf4.js",
+    "service-worker.js": "/React-CardRobots/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/React-CardRobots/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.92aad1fc.chunk.css.map": "/React-CardRobots/static/css/main.92aad1fc.chunk.css.map",
+    "static/js/2.4e822d6b.chunk.js.LICENSE.txt": "/React-CardRobots/static/js/2.4e822d6b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-CardRobots/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c2a2944.js",
+    "static/js/runtime-main.ee9758ca.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.4e822d6b.chunk.js",
-    "static/css/main.22cceac8.chunk.css",
-    "static/js/main.2f473def.chunk.js"
+    "static/css/main.92aad1fc.chunk.css",
+    "static/js/main.13c55902.chunk.js"
   ]
 }
